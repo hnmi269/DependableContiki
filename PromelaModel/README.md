@@ -1,6 +1,6 @@
 //****************************** Promela Model of the Contiki's scheduler
 
-**SPIN 6.5.0  and iSpin 1.1.1 with below parameters
+SPIN 6.5.0  and iSpin 1.1.1 with below parameters
 
 Storage Mode : bitstate/supertrace
 
